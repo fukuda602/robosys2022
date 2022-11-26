@@ -3,10 +3,10 @@
 ## plusコマンド
 [![test](https://github.com/fukuda602/robosys2022/actions/workflows/test.yml/badge.svg)](https://github.com/fukuda602/robosys2022/actions/workflows/test.yml)
 
-##用途
+## 用途
 * ロボットシステム工学の授業で取り扱った内容です。
 
-##インストール
+## インストール
 ```
 git clone git@github.com:fukuda602/robosys2022.git
 ```

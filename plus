@@ -5,20 +5,11 @@
 import sys
 
 x = 0.0
-y = 0.0
-z = 1.0
-a = 1.0
 
 for n in sys.stdin:
     try:
         x += int(n)
-        y -= int(n)
-        z *= int(n)
-        a /= int(n)
     except:
         x += float(n)
-        y -= float(n)
-        z *= float(n)
-        a /= float(n)
 
-print(x, y, z, a)
+print(x)

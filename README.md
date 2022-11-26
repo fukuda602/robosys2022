@@ -1,6 +1,5 @@
 # robosys2022
 
-## plusコマンド
 [![test](https://github.com/fukuda602/robosys2022/actions/workflows/test.yml/badge.svg)](https://github.com/fukuda602/robosys2022/actions/workflows/test.yml)
 
 ## 用途

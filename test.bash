@@ -9,14 +9,14 @@ ng () {
 
 res=0
 
-out=$(seq 5 | ./plus)
-[ "${out}" = 15.0 ] || ng ${LINENO}
+out=$(seq 5 | ./sisoku)
+[ "${out}" = "15.0 -15.0 120.0 0.0083" ] || ng ${LINENO}
 
-out=$(echo あ | ./plus)
+out=$(echo あ | ./sisoku)
 [ "$?" = 1 ] || ng ${LINENO}
 [ "${out}" = "" ] || ng ${LINENO}
 
-out=$(echo | ./plus)
+out=$(echo | ./sisoku)
 [ "$?" = 1 ] || ng ${LINENO}
 [ "${out}" = "" ] || ng ${LINENO}
 

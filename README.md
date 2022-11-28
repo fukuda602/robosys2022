@@ -3,11 +3,11 @@
 [![test](https://github.com/fukuda602/robosys2022/actions/workflows/test.yml/badge.svg)](https://github.com/fukuda602/robosys2022/actions/workflows/test.yml)
 
 ## sisokuコマンド
-* X ～ Y番目までの範囲内の四則演算を行うコマンドです。少数にも対応しています。
-* 出力は加法、減法、乗法、除法の順です。
+* X ～ Y番目までの範囲内の四則演算を行うコマンド。
+* 少数 Z ごとに計算可能。
+* 出力は加法、減法、乗法、除法の順。
 
 ## 実行方法
-* X,Yには適当な数字を入れてください。Zは少数の指定。
 * 整数
 ```
 seq X Y | ./sisoku

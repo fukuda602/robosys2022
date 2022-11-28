@@ -21,4 +21,4 @@ for n in sys.stdin:
         z *= float(n)
         a /= float(n)
 
-print(x, y, z, round(a , 4))
+print(x, y, z, a)

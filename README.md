@@ -1,7 +1,6 @@
+[![test](https://github.com/fukuda602/robosys2022/actions/workflows/test.yml/badge.svg)](https://github.com/fukuda602/robosys2022/actions/workflows/test.yml)
 # robosys2022
 * ロボットシステム学の授業で作成したリポジトリ
-
-[![test](https://github.com/fukuda602/robosys2022/actions/workflows/test.yml/badge.svg)](https://github.com/fukuda602/robosys2022/actions/workflows/test.yml)
 
 ## sisokuコマンド
 * X ～ Y番目までの範囲内の四則演算を行うコマンド
@@ -12,8 +11,7 @@
 ```
 git clone https://github.com/fukuda602/robosys2022
 ```
-
-## 移動コマンド
+###移動コマンド
 ```
 cd robosys2022
 ```

@@ -1,7 +1,4 @@
 [![test](https://github.com/fukuda602/robosys2022/actions/workflows/test.yml/badge.svg)](https://github.com/fukuda602/robosys2022/actions/workflows/test.yml)
-# robosys2022
-* ロボットシステム学の授業で作成したリポジトリ
-
 ## sisokuコマンド
 * X ～ Y番目までの範囲内の四則演算を行うコマンド
 * 少数 Z ごとに計算可能

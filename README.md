@@ -12,6 +12,11 @@
 ```
 git clone https://github.com/fukuda602/robosys2022
 ```
+
+## 移動コマンド
+```
+cd robosys2022
+```
 ## 実行方法
 ### 整数
 ```

@@ -11,10 +11,9 @@
 ## インストール
 ```
 git clone https://github.com/fukuda602/robosys2022
-
 ```
 ## 実行方法
-* 整数
+### 整数
 ```
 seq X Y | ./sisoku
 ```
@@ -27,7 +26,7 @@ seq 1 5 | ./sisoku
 15.0 -15.0 120.0 0.008333333333333333
 ```
 
-* 少数
+### 少数
 ```
 seq X Z Y | ./sisoku
 ```

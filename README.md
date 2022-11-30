@@ -48,6 +48,6 @@ seq 1 0.5 5 | ./sisoku
 * Ubuntu20.04
 
 ## LICENSE
-* BSDライセンスが適応されております。詳しくはLICENSEを参照下さい。
+* BSDライセンスが適用されております。詳しくはLICENSEを参照下さい。
 
 ⓒ 2022 Taiki Fukuda
